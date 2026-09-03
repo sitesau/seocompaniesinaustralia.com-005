@@ -1,0 +1,33 @@
+{
+  "slug": "technical-seo-audit-australia",
+  "title": "Technical SEO Audit Australia: What It Covers and What to Expect",
+  "meta_description": "Technical SEO audit Australia: what crawlability, Core Web Vitals, schema and site structure checks cover, how findings are prioritised, what audits can cost, and how to act on the report.",
+  "intro_html": "<p><a href=\"https://www.seocompaniesinaustralia.com.au\">SEO Companies in Australia</a> lists SEO provider types, including Technical SEO, and gives Australian businesses a place to compare services and request quotes. If you are weighing up a technical SEO audit, start with the basics: crawlability, indexability, site architecture, page speed, schema, duplicate content and mobile usability.</p>",
+  "section_html": [
+    "<h2>What a technical SEO audit covers</h2><p>A proper technical audit is a layered review, not a single scan. It checks whether search engines can reach and index the site, whether the internal link structure supports important pages, whether Core Web Vitals and page speed are holding pages back, whether schema markup is valid, whether duplicate URLs are diluting signals, and whether the site works cleanly on mobile.</p>",
+    "<h2>How findings should be framed</h2><p>The useful part of an audit is the diagnosis. Findings should be grouped by severity, explained in plain language, and turned into a remediation roadmap a developer can work from. A spreadsheet of crawl results is not enough on its own if it does not explain why each issue matters and what should be fixed first.</p>",
+    "<h2>Typical audit costs in Australia</h2><p>Scope matters more than site size alone. A small business site may fall around $500 to $1,500 for a focused crawl and speed review. A more complex mid-market site can sit in the $2,000 to $5,000 range, while large enterprise audits can exceed $10,000 when log analysis, JavaScript rendering and deeper template review are involved.</p>",
+    "<h2>How to use the report</h2><p>Triage by traffic impact, assign clear ownership, validate each fix with a fresh crawl, and compare before-and-after Search Console data once changes are live. If the site is being migrated or replatformed, treat that as a separate audit window rather than folding it into a general health check.</p>"
+  ],
+  "faq": [
+    {
+      "q": "How long does a technical SEO audit take?",
+      "a": "A focused audit of a small to mid-size site often takes five to ten business days. Larger or more complex sites can take three to four weeks."
+    },
+    {
+      "q": "Do I need a technical SEO audit if my site is new?",
+      "a": "Yes. A pre-launch audit can catch crawlability, canonical and Core Web Vitals issues before they become more expensive to fix after launch."
+    },
+    {
+      "q": "What is the difference between a technical SEO audit and an SEO audit?",
+      "a": "A technical SEO audit focuses on infrastructure such as crawl access, indexation, speed, schema and architecture. A broader SEO audit also covers content, keyword targeting and backlink profile."
+    }
+  ],
+  "outbound_link_html": "<p>For provider comparison and directory browsing, return to <a href=\"https://www.seocompaniesinaustralia.com.au\">SEO Companies in Australia</a>.</p>",
+  "notes": [
+    "Single-row content pack only.",
+    "Keep claims limited to the live homepage and approved reference bundle.",
+    "No rankings, guarantees, percentages or unsupported local rules.",
+    "AU English, editorial tone, no em dashes."
+  ]
+}
